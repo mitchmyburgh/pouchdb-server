@@ -16,7 +16,6 @@
 
 'use strict';
 
-var Promise = require('pouchdb-promise');
 var systemDB = require('pouchdb-system-db');
 var Validation = require('pouchdb-validation');
 var wrappers = require('pouchdb-wrappers');

@@ -1,6 +1,6 @@
 var fs = require('fs');
 var path = require('path');
-var Promise = require('pouchdb-promise');
+
 var chai = require('chai');
 
 exports.PouchDB = require('pouchdb').defaults({

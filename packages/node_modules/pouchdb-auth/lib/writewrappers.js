@@ -16,7 +16,6 @@
 
 'use strict';
 
-var Promise = require('pouchdb-promise');
 var createBulkDocsWrapper = require("pouchdb-bulkdocs-wrapper");
 
 var utils = require('./utils');
